@@ -1,4 +1,4 @@
-Secure-by-Design Greenhouse CPS
+SbD Greenhouse CPS
 
 This project demonstrates a greenhouse cyber-physical system (CPS) built with Python and PySide, where sensors and PLCs (Programmable Logic Controllers) manage temperature, humidity, lighting, and irrigation.
 It integrates with InfluxDB (for time-series data storage) and Grafana (for real-time dashboards). The system also includes attack simulation modules to study resilience and detection mechanisms.
