@@ -50,4 +50,4 @@ PySide GUI → live system values
 
 Grafana → dashboards & charts
 
-Please checkout the ppt and report for the details.
+Please check out the ppt and report for more details.
